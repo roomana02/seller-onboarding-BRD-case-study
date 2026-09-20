@@ -21,4 +21,4 @@ Requirement gathering, BRD/FRD documentation, stakeholder management,
 Agile user story writing, process mapping, and business analysis.
 
 ## Document
-See [Roomana_Mirza_BRD_Seller_Onboarding_Project.docx](./Roomana_Mirza_BRD_Seller_Onboarding_Project.docx) for the full case study.
+See [Roomana_Mirza_BRD_Seller_Onboarding_Project.pdf](./Roomana_Mirza_BRD_Seller_Onboarding_Project.pdf) for the full case study.
